@@ -92,7 +92,7 @@ theme = "hugo-elate-theme"
     title = "Training"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
-    button = "Get In Touch"
+    button = "mehr"
     #icon = "icon-bulb"
     icon = "stuehler-directions"
     img = "i/img_7.jpg"
@@ -101,22 +101,22 @@ theme = "hugo-elate-theme"
     title = "Coaching"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
-    button = "Click Me"
+    button = "mehr"
     #icon = "icon-wrench"
     icon = "stuehler-bulb"
     img = "i/img_8.jpg"
 
   [[languages.de.intro.item]]
-    title = "Über mich"
+    title = "Wozu?"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
-    button = "Why us?"
+    button = "Warum?"
     icon = "stuehler-ue"
     img = "i/img_10.jpg"
 
-  [params.intro.video]
+  [languages.de.intro.video]
     enable = true
-    title = "Watch the video"
+    title = "Eine kurze Einführung"
     icon = "icon-play2"
     url = "https://vimeo.com/channels/staffpicks/93951774"
 
