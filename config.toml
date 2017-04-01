@@ -4,9 +4,15 @@ title = "stühler"
 DefaultContentLanguage = "de"
 theme = "hugo-elate-theme"
 
+contentdir = "content" 
+layoutdir = "layouts" 
+publishdir = "public" 
+canonifyurls = true 
+
+
 [params]
   
-  custom_css = ["c/fonts.css","c/stuehler.css", "c/ue.css"]
+  custom_css = ["/c/fonts.css","/c/stuehler.css", "/c/ue.css"]
 
   # Meta
   author = "Jan Stühler"

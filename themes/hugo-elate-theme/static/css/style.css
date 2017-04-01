@@ -247,8 +247,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 #fh5co-header #navbar li a {
-  font-family: "Source Sans Pro", Arial, sans-serif;
-  color: rgba(255, 255, 255, 0.5);
+  font-family: "Dosis";
+  color: rgba(255, 255, 255, 0.65);
   position: relative;
   font-size: 19px;
   font-weight: 300;
@@ -257,6 +257,9 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   display: block;
   padding-bottom: 2px;
+  font-weight: 500;
+  letter-spacing: 0.075em; 
+   
 }
 #fh5co-header #navbar li a span:before {
   content: "";
