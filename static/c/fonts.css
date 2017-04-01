@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "Dosis";
+	src: local('Dosis'),
+		local('Dosis-Regular'),
+		url("/f/Dosis-Regular.woff2") format('woff2'),
+		url("/f/Dosis-Regular.woff") format('woff'),
+		url("/f/Dosis-Regular.svg") format('svg');
+}
