@@ -1,3 +1,4 @@
+/* zeigt den stühler-Schriftzug in der navbar an */
 #stuehler svg {
 	/* eventuell in navbar-brand in style.css inkludieren */
 	margin-top: -15px;

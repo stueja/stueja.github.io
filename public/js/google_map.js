@@ -39,7 +39,7 @@ function init() {
             new google.maps.Marker({
                 position: latlng,
                 map: map,
-                icon: 'images/loc-compressor.png'
+                icon: '/i/stuehler-loc.png'
             });
 
         });
