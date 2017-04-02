@@ -1,5 +1,5 @@
 +++
-title = "test"
+title = "Impressum"
 description = "dies ist die beschreibung dieser seite"
 date = "2014-09-13"
 slug = "impressum"

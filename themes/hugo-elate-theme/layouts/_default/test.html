@@ -19,7 +19,27 @@
 						<div class="col-md-8 col-md-offset-2">
 							<!-- <h1 class="to-animate">{{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</h1> -->
 							<!-- <h2 class="to-animate">{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</h2> -->
-			
+							{{ .TableOfContents }} </br>
+							{{ .Description }}</br>
+							{{ .Data }}</br>
+							{{ .WordCount }}</br>
+							{{ .FuzzyWordCount }}</br>
+							{{ .ReadingTime }}</br>
+							{{ .Summary }}</br>
+							{{ .Keywords }}</br>
+							{{ .Params.tags }}</br>
+							{{ .Params.categories }}</br>
+							
+							{{ delimit .Keywords ", " }}
+
+{{ range $.Site.Data.quotes }}
+	<ul>
+	{{ range .quote | shuffle }}
+	  <li>{{ . }}</li>
+	{{ end }}
+	</ul>
+{{ end }}
+							
 							{{ .Content | markdownify }}
 							
 							

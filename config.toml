@@ -18,6 +18,7 @@ canonifyurls = true
   author = "Jan Stühler"
   description = "business and blog"
   email = ""
+  image = ""
   # Navigation
   [languages]
   [languages.en]
