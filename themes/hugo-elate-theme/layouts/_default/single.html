@@ -31,6 +31,14 @@
 							{{ .Params.categories }}</br>
 							
 							{{ delimit .Keywords ", " }}
+
+{{ range $.Site.Data.quotes }}
+	<ul>
+	{{ range .quote | shuffle }}
+	  <li>{{ . }}</li>
+	{{ end }}
+	</ul>
+{{ end }}
 							
 							{{ .Content | markdownify }}
 							
