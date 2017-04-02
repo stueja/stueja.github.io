@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stühler</title>
-    <link>localhost:1313</link>
+    <link>/jan.coach/hugo/index.xml</link>
     <description>Recent content on stühler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Sun, 02 Apr 2017 10:43:46 +0200</lastBuildDate>
-    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
+    <atom:link href="/jan.coach/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>impressumtitel</title>
-      <link>localhost:1313</link>
+      <link>/jan.coach/hugo/single/impressumtest/</link>
       <pubDate>Sun, 02 Apr 2017 10:43:46 +0200</pubDate>
       
-      <guid>localhost:1313</guid>
+      <guid>/jan.coach/hugo/single/impressumtest/</guid>
       <description>
 
 &lt;h1 id=&#34;überschrift&#34;&gt;Überschrift&lt;/h1&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>Impressum</title>
-      <link>localhost:1313</link>
+      <link>/jan.coach/hugo/impressum/</link>
       <pubDate>Sat, 13 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313</guid>
+      <guid>/jan.coach/hugo/impressum/</guid>
       <description>
 
 &lt;h1 id=&#34;überschrift-diesmal-etwas-länger-gehalten-von-den-worten-her&#34;&gt;Überschrift diesmal etwas länger gehalten von den Worten her&lt;/h1&gt;
@@ -55,10 +55,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
     
     <item>
       <title>first</title>
-      <link>localhost:1313</link>
+      <link>/jan.coach/hugo/post/first%20post/</link>
       <pubDate>Sat, 13 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313</guid>
+      <guid>/jan.coach/hugo/post/first%20post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
 </description>
     </item>

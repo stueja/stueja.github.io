@@ -2,9 +2,9 @@
 title = ""
 description = ""
 slug = ""
-image = ""
+image = "/i/stuehler-vis.png"
 
-keywords = ""
-categories = ""
-tags = ""
+keywords = ["","",""]
+categories = ["",""]
+tags = ["",""]
 +++

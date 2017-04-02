@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "jan.coach/hugo/"
 title = "stühler"
 DefaultContentLanguage = "de"
 theme = "hugo-elate-theme"
@@ -7,7 +7,7 @@ theme = "hugo-elate-theme"
 contentdir = "content" 
 layoutdir = "layouts" 
 publishdir = "public" 
-canonifyurls = true 
+canonifyurls = false 
 
 
 [params]
@@ -15,14 +15,19 @@ canonifyurls = true
   custom_css = ["/c/fonts.css","/c/stuehler.css", "/c/ue.css"]
 
   # Meta
+  # e. g. {{ .Site.Params.author}}
   author = "Jan Stühler"
   description = "business and blog"
-  email = ""
-  image = ""
+  email = "antworten@stuehler.coach"
+  image = "/i/stuehler-vis.png"
+  twittersite = "jhst1973"
+  
+  
   # Navigation
   [languages]
   [languages.en]
   languageCode = "en"
+  fblanguageCode = "en_US"
   [languages.en.navigation]
     brand = "stühler"
     home = "Home"
@@ -34,7 +39,7 @@ canonifyurls = true
     
     # postpended links
     [[languages.en.menu.postpend]]
-      url = "/impressum.html"
+      url = "/imprint"
       name = "Imprint"
       weight = 10
 
@@ -49,6 +54,7 @@ canonifyurls = true
 ##################################################################################
   [languages.de]
   languageCode = "de"
+  fblanguageCode = "de_DE"
   [languages.de.navigation]
     brand = "stühler"
     home = "Start"
@@ -60,7 +66,7 @@ canonifyurls = true
     
     # postpended links
     [[languages.de.menu.postpend]]
-      url = "/impressum.html"
+      url = "/impressum"
       name = "Impressum"
       weight = 10
       

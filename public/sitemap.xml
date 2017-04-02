@@ -2,12 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>localhost:1313/sitemap.xml</loc>
+	   	<loc>jan.coach/hugo/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>localhost:1313/sitemap.xml</loc>
+	   	<loc>jan.coach/hugo/de/sitemap.xml</loc>
 		
 	   	<lastmod>2017-04-02T10:43:46+02:00</lastmod>
 		

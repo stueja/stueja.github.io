@@ -3,7 +3,7 @@ title = "Impressum"
 description = "dies ist die beschreibung dieser seite"
 date = "2014-09-13"
 slug = "impressum"
-image = "/i/miri2.jpg"
+image = "/i/stuehler-vis.png"
 
 keywords = ["drei", "wichtigste", "keywords"]
 categories = "kategorien"
