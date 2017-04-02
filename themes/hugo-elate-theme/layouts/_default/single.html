@@ -5,21 +5,36 @@
 <!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
 {{ with .Site.LanguageCode }}<html lang="{{ . }}" />{{ end }}
     <head>
-        {{ partial "head.html" .}}
+        {{ partial "singlehead.html" .}}
     </head>
     <body>
         {{ partial "singlenav.html" .}}
 
-		{{ partial "hero.html" .}}
+		{{ partial "singlehero.html" .}}
 		
 		<div class="container">
 			<div class="text-wrap">
 				<div class="text-inner">
-					<div class="row">
+					<div class="row" id="singlerow">
 						<div class="col-md-8 col-md-offset-2">
 							<!-- <h1 class="to-animate">{{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</h1> -->
 							<!-- <h2 class="to-animate">{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</h2> -->
-							{{ .Content }}							
+							{{ .TableOfContents }} </br>
+							{{ .Description }}</br>
+							{{ .Data }}</br>
+							{{ .WordCount }}</br>
+							{{ .FuzzyWordCount }}</br>
+							{{ .ReadingTime }}</br>
+							{{ .Summary }}</br>
+							{{ .Keywords }}</br>
+							{{ .Params.tags }}</br>
+							{{ .Params.categories }}</br>
+							
+							{{ delimit .Keywords ", " }}
+							
+							{{ .Content | markdownify }}
+							
+							
 						</div>
 					</div>
 				</div>

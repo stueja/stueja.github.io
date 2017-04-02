@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>stühler</title>
+    <title>Tag1 on stühler</title>
     <link>localhost:1313</link>
-    <description>Recent content on stühler</description>
+    <description>Recent content in Tag1 on stühler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 02 Apr 2017 10:43:46 +0200</lastBuildDate>
     <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
     
     <item>
@@ -22,16 +21,6 @@
 &lt;h2 id=&#34;unterüberschrift&#34;&gt;Unterüberschrift&lt;/h2&gt;
 
 &lt;p&gt;fließtext&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>first</title>
-      <link>localhost:1313</link>
-      <pubDate>Sat, 13 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>localhost:1313</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
 </description>
     </item>
     

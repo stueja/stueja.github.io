@@ -376,7 +376,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0s;
 }
 
-#fh5co-home {
+#fh5co-home, #single {
   background-color: transparent;
   background-size: cover;
   background-attachment: fixed;
@@ -386,9 +386,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   overflow: hidden;
 }
-#fh5co-home .gradient {
-  position: absolute;
-  top: 0;
+#fh5co-home .gradient, #single, #single .gradient {
+  
+
   bottom: 0;
   left: 0;
   right: 0;
@@ -405,8 +405,23 @@ h1, h2, h3, h4, h5, h6 {
   background-image: repeating-linear-gradient(to bottom right, #3f95ea 0%, #52d3aa 100%);
   background-image: -ms-repeating-linear-gradient(top left, #3f95ea 0%, #52d3aa 100%);
 }
+#fh5co-home .gradient {
+  position: absolute;
+  top: 0;
+}
+#single, #single .gradient {
+  position: absolute;
+  top: 0;
+  z-index: -1;
+}
+#singlerow {
+  padding-top: 125px;
+}
 #fh5co-home, #fh5co-home .text-wrap {
   height: 900px;
+}
+#single {
+  height: 300px;
 }
 #fh5co-home .text-wrap {
   display: table;
