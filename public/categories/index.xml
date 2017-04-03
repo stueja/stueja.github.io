@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Singles on stühler</title>
-    <link>/jan.coach/hugo/single/index.xml</link>
-    <description>Recent content in Singles on stühler</description>
+    <title>stühler</title>
+    <link>/jan.coach/hugo/categories/index.xml</link>
+    <description>Recent content on stühler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 03 Apr 2017 10:23:41 +0200</lastBuildDate>
-    <atom:link href="/jan.coach/hugo/single/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/jan.coach/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>datenschutz</title>
@@ -24,18 +23,16 @@
     </item>
     
     <item>
-      <title>impressumtitel</title>
-      <link>/jan.coach/hugo/impressumtitel/</link>
-      <pubDate>Sun, 02 Apr 2017 10:43:46 +0200</pubDate>
+      <title>datenschutz</title>
+      <link>/jan.coach/hugo/datenschutz/</link>
+      <pubDate>Mon, 03 Apr 2017 10:23:41 +0200</pubDate>
       
-      <guid>/jan.coach/hugo/impressumtitel/</guid>
+      <guid>/jan.coach/hugo/datenschutz/</guid>
       <description>
 
-&lt;h1 id=&#34;überschrift&#34;&gt;Überschrift&lt;/h1&gt;
+&lt;h1 id=&#34;datenschutzerklärung&#34;&gt;Datenschutzerklärung&lt;/h1&gt;
 
-&lt;h2 id=&#34;unterüberschrift&#34;&gt;Unterüberschrift&lt;/h2&gt;
-
-&lt;p&gt;fließtext&lt;/p&gt;
+&lt;h2 id=&#34;für-die-seite-stuehler-coach&#34;&gt;für die Seite stuehler.coach&lt;/h2&gt;
 </description>
     </item>
     
