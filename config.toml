@@ -206,13 +206,13 @@ defaultContentLanguageInSubdir = false
     url = "https://vimeo.com/channels/staffpicks/93951774"
 
 ########################################################################################
-  # Work section
 #####    ######
 ##  ##   ##
 ##   ##  ####
 ##  ##   ##
 #####    ######
-
+########################################################################################
+  # Work section
   [languages.de.work]
     enable = true
     title = "Beispiele"
@@ -326,6 +326,7 @@ defaultContentLanguageInSubdir = false
         ["icon-linkedin", "#"],
         ["icon-xing", "#"],
         ["icon-youtube", "#"],
+        ["icon-github", "#"],
       ]
 
 #    [[params.about.item]]
