@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>jan.coach/hugo/de/sitemap.xml</loc>
-		
-	   	<lastmod>2017-04-03T10:23:41+02:00</lastmod>
+	   	<loc>jan.coach/hugo/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>jan.coach/hugo/en/sitemap.xml</loc>
+	   	<loc>jan.coach/hugo/de/sitemap.xml</loc>
+		
+	   	<lastmod>2017-04-03T22:36:02+02:00</lastmod>
 		
 	</sitemap>
 	

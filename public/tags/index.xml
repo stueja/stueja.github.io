@@ -2,12 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stühler</title>
-    <link>/jan.coach/hugo/index.xml</link>
+    <link>/jan.coach/hugo/tags/index.xml</link>
     <description>Recent content on stühler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 03 Apr 2017 22:36:02 +0200</lastBuildDate>
-    <atom:link href="/jan.coach/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/jan.coach/hugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Imprint</title>
+      <link>/jan.coach/hugo/en/imprint/</link>
+      <pubDate>Mon, 03 Apr 2017 22:36:02 +0200</pubDate>
+      
+      <guid>/jan.coach/hugo/en/imprint/</guid>
+      <description>
+
+&lt;h1 id=&#34;imprint&#34;&gt;Imprint&lt;/h1&gt;
+
+&lt;h2 id=&#34;for-the-website-stuehler-coach&#34;&gt;for the website stuehler.coach&lt;/h2&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;the english imprint&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Imprint</title>
@@ -46,18 +63,20 @@
     </item>
     
     <item>
-      <title>impressumtitel</title>
-      <link>/jan.coach/hugo/impressumtest/</link>
-      <pubDate>Sun, 02 Apr 2017 10:43:46 +0200</pubDate>
+      <title>Impressum</title>
+      <link>/jan.coach/hugo/impressum/</link>
+      <pubDate>Mon, 03 Apr 2017 21:59:10 +0200</pubDate>
       
-      <guid>/jan.coach/hugo/impressumtest/</guid>
+      <guid>/jan.coach/hugo/impressum/</guid>
       <description>
 
-&lt;h1 id=&#34;überschrift&#34;&gt;Überschrift&lt;/h1&gt;
+&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;
 
-&lt;h2 id=&#34;unterüberschrift&#34;&gt;Unterüberschrift&lt;/h2&gt;
+&lt;h2 id=&#34;für-die-seite-stuehler-coach&#34;&gt;für die Seite stuehler.coach&lt;/h2&gt;
 
-&lt;p&gt;fließtext&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3 id=&#34;dies-ist-das-deutsche-impressum&#34;&gt;Dies ist das deutsche Impressum&lt;/h3&gt;
 </description>
     </item>
     

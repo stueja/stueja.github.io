@@ -2,51 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/jan.coach/hugo/datenschutz/</loc>
-    <lastmod>2017-04-03T10:23:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/jan.coach/hugo/impressumtitel/</loc>
-    <lastmod>2017-04-02T10:43:46+02:00</lastmod>
+    <loc>/jan.coach/hugo/en/imprint/</loc>
+    <lastmod>2017-04-03T22:36:02+02:00</lastmod>
   </url>
   
   <url>
     <loc>/jan.coach/hugo/impressum/</loc>
-    <lastmod>2014-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-03T21:59:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/jan.coach/hugo/2014/09/first/</loc>
-    <lastmod>2014-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/jan.coach/hugo/categories/</loc>
-    <lastmod>2017-04-03T10:23:41+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/jan.coach/hugo/impressumtest/</loc>
+    <lastmod>2017-04-02T10:43:46+02:00</lastmod>
   </url>
   
   <url>
     <loc>/jan.coach/hugo/categories/</loc>
+    <lastmod>2017-04-03T22:36:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/jan.coach/hugo/tags/cookies/</loc>
-    <lastmod>2017-04-03T10:23:41+02:00</lastmod>
+    <loc>/jan.coach/hugo/tags/</loc>
+    <lastmod>2017-04-03T22:36:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/jan.coach/hugo/tags/daten/</loc>
-    <lastmod>2017-04-03T10:23:41+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/jan.coach/hugo/tags/datenschutz/</loc>
-    <lastmod>2017-04-03T10:23:41+02:00</lastmod>
+    <loc>/jan.coach/hugo/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -57,26 +40,8 @@
   </url>
   
   <url>
-    <loc>/jan.coach/hugo/categories/kategorien/</loc>
-    <lastmod>2014-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/jan.coach/hugo/post/</loc>
-    <lastmod>2014-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/jan.coach/hugo/tags/schutz/</loc>
-    <lastmod>2017-04-03T10:23:41+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/jan.coach/hugo/single/</loc>
-    <lastmod>2017-04-03T10:23:41+02:00</lastmod>
+    <lastmod>2017-04-03T22:36:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -98,14 +63,8 @@
   </url>
   
   <url>
-    <loc>/jan.coach/hugo/tags/verschwiegenheit/</loc>
-    <lastmod>2017-04-03T10:23:41+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/jan.coach/hugo/</loc>
-    <lastmod>2017-04-03T10:23:41+02:00</lastmod>
+    <lastmod>2017-04-03T22:36:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -3,7 +3,7 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
-{{ with .Site.LanguageCode }}<html lang="{{ . }}" />{{ end }}
+<html {{ with .Params.langCode }}lang="{{ . }}" {{ end }}/>
     <head>
         {{ partial "singlehead.html" .}}
     </head>
@@ -19,7 +19,7 @@
 						<div class="col-md-8 col-md-offset-2">
 							<!-- <h1 class="to-animate">{{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</h1> -->
 							<!-- <h2 class="to-animate">{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</h2> -->
-			
+							Stand: {{ .Date.Format "02. Jan. 2006" }}
 							{{ .Content | markdownify }}
 							
 							
