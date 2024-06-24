@@ -3,15 +3,77 @@ project:
 
 website:
   title: "stueja"
+  favicon: img/uemin.svg
+  twitter-card: true
+  open-graph: true
+  cookie-consent:
+    type: express
+    style: simple
+    language: de
+  site-url: https://stuehler.info
   navbar:
-    left:
+    title: false
+    logo: img/uemin.svg
+    logo-alt: ü
+    # background: dark   # “primary”, “secondary”, “success”, “danger”, “warning”, “info”, “light”, “dark”, or hex color
+    # foreground: light
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+        icon: house-fill
+      - href: about.qmd
+        text: About
+        icon: question-square-fill
+      - href: test.qmd
+        text: Test
+        icon: person-workspace
+      - text: More
+        menu:
+          - text: More
+          - href: index.qmd
+            text: Home
+            icon: house-fill
+          - href: about.qmd
+            text: About
+            icon: question-square-fill
+          - href: test.qmd
+            text: Test
+            icon: person-workspace
+    tools:
+    - icon: mastodon
+      href: https://mastodon.social/@stueja
+    - icon: github
+      href: http://github.com/stueja
+  sidebar: 
+    contents: 
+      - section: Reports
+        contents:
+          - about.qmd
+          - index.qmd
+      - text: "---"
+      - section: Nächste
+        contents:
+          - test.qmd
+    tools:
+      - icon: mastodon
+        href: https://mastodon.social/@stueja
+      - icon: github
+        href: http://github.com/stueja
+  page-footer:
+    left: "Copyright © 2024, Jan Stühler"
+    right:
+      - icon: mastodon
+        href: https://mastodon.social/@stueja
+      - icon: github
+        href: http://github.com/stueja
+  reader-mode: true
+
 
 format:
   html:
-    theme: solar
+    theme: 
+      dark: solar
+      light: spacelab
     css: styles.css
     toc: true
 
